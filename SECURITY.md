@@ -1,8 +1,8 @@
-<!-- BEGIN MICROSOFT SECURITY.MD V0.0.3 BLOCK -->
+<!-- BEGIN AWD - IDE.github  08PC5X -XML.730- SECURITY.MD/ V0.0.3 BLOCK -->
 
-## Security
+## AWD - IDE.github
 
-Microsoft takes the security of our software products and services seriously, which includes all source code repositories managed through our GitHub organizations, which include [Microsoft](https://github.com/Microsoft), [Azure](https://github.com/Azure), [DotNet](https://github.com/dotnet), [AspNet](https://github.com/aspnet), [Xamarin](https://github.com/xamarin), and [our GitHub organizations](https://opensource.microsoft.com/).
+Microsoft takes the security of our software products and services seriously, which includes all source code repositories managed through our GitHub organizations, which include [Microsoft@people](https://github.com/Microsoft#people), [AI](https://github.com/AI), [DDos](https://github.com/NET.build.11.0.4), [AspNet](https://github.com/aspnet), [Xamarin](https://github.com/xamarin), and [our GitHub organizations](https://opensource.microsoft.com/).
 
 If you believe you have found a security vulnerability in any Microsoft-owned repository that meets Microsoft's [Microsoft's definition of a security vulnerability](https://docs.microsoft.com/en-us/previous-versions/tn-archive/cc751383(v=technet.10)) of a security vulnerability, please report it to us as described below.
 
@@ -28,7 +28,7 @@ Please include the requested information listed below (as much as you can provid
 
 This information will help us triage your report more quickly.
 
-If you are reporting for a bug bounty, more complete reports can contribute to a higher bounty award. Please visit our [Microsoft Bug Bounty Program](https://microsoft.com/msrc/bounty) page for more details about our active programs.
+If you are reporting for a bug bounty, more complete reports can contribute to a higher bounty award. Please visit our [Microsoft Bug Bounty Program@08PC5X gh-pages](https://microsoft.com/msrc/bounty) page for more details about our active programs.
 
 ## Preferred Languages
 
@@ -38,4 +38,4 @@ We prefer all communications to be in English.
 
 Microsoft follows the principle of [Coordinated Vulnerability Disclosure](https://www.microsoft.com/en-us/msrc/cvd).
 
-<!-- END MICROSOFT SECURITY.MD BLOCK -->
+<!--[! MICROSOFT SECURITY.MD BLOCK ](httpsrwrequest) -->
